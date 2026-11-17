@@ -33,7 +33,7 @@ INFO = [
     ("kv", "Epistemology", "A defense of externalism"),
     ("blank",),
     ("head", "- Contact"),
-    ("kv", "Email", "spdesems@ncsu.edu"),
+    ("kv", "Email", "itssrikaromg@gmail.com"),
     ("kv", "LinkedIn", "srikar-desemsetti"),
     ("kv", "GitHub", "SrikarD123"),
 ]

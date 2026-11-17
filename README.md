@@ -7,5 +7,5 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/srikar-desemsetti">LinkedIn</a> ·
-  <a href="mailto:spdesems@ncsu.edu">Email</a>
+  <a href="mailto:itssrikaromg@gmail.com">Email</a>
 </p>
