@@ -8,5 +8,6 @@
 <p align="center">
   <a href="https://desemsetti.com">Portfolio</a> ·
   <a href="https://linkedin.com/in/srikar-desemsetti">LinkedIn</a> ·
-  <a href="mailto:itssrikaromg@gmail.com">Email</a>
+  <a href="mailto:itssrikaromg@gmail.com">Email</a> ·
+  <a href="https://desemsetti.com/Desemsetti_Srikar_Resume.pdf">Résumé</a>
 </p>
