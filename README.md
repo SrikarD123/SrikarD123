@@ -4,3 +4,8 @@
     <img alt="Srikar Desemsetti: engineer, trumpeter, philosopher. CS (AI) and Philosophy at NC State. Projects: NASA Lunar Autonomy Challenge, a delivery drone route planner, and a study of robots.txt rules for AI crawlers." src="https://raw.githubusercontent.com/SrikarD123/SrikarD123/main/light_mode.svg">
   </picture>
 </a>
+
+<p align="center">
+  <a href="https://linkedin.com/in/srikar-desemsetti">LinkedIn</a> ·
+  <a href="mailto:spdesems@ncsu.edu">Email</a>
+</p>

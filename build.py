@@ -1,7 +1,7 @@
 """Build the profile card: ASCII portrait + info panel, in light and dark."""
 from xml.sax.saxutils import escape
 
-W, H = 985, 590
+W, H = 985, 610
 ART_FS, INFO_FS = 16, 15
 CW, LH = ART_FS * 0.6, ART_FS * 1.25
 INFO_X, INFO_COLS, ROW = 490, 52, 20
@@ -33,6 +33,7 @@ INFO = [
     ("kv", "Epistemology", "A defense of externalism"),
     ("blank",),
     ("head", "- Contact"),
+    ("kv", "Email", "spdesems@ncsu.edu"),
     ("kv", "LinkedIn", "srikar-desemsetti"),
     ("kv", "GitHub", "SrikarD123"),
 ]

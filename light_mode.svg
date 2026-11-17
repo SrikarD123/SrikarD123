@@ -1,38 +1,38 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,monospace" width="985px" height="590px" font-size="15px" role="img" aria-label="Srikar Desemsetti: ASCII portrait and profile">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,monospace" width="985px" height="610px" font-size="15px" role="img" aria-label="Srikar Desemsetti: ASCII portrait and profile">
 <style>
 @font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; size-adjust: 109%; }
 .key {fill: #953800;} .value {fill: #0a3069;} .cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="590px" fill="#f6f8fa" rx="15"/>
+<rect width="985px" height="610px" fill="#f6f8fa" rx="15"/>
 <text fill="#24292f" font-size="16px" xml:space="preserve">
-<tspan x="168.60" y="51.00" textLength="163.20" lengthAdjust="spacing">|iljkjkkmw%@@Nm@@</tspan>
-<tspan x="120.60" y="71.00" textLength="230.40" lengthAdjust="spacing">MmjM@@N%M%@@gmw%@@@@@@@N</tspan>
-<tspan x="101.40" y="91.00" textLength="268.80" lengthAdjust="spacing">wgjNM@gkMM@@NN@@@@@@@@@@@@@@</tspan>
-<tspan x="82.20" y="111.00" textLength="316.80" lengthAdjust="spacing">mwjg%@@@N@@%%%@N@%@@@@@@@@@@@@@@m</tspan>
-<tspan x="63.00" y="131.00" textLength="345.60" lengthAdjust="spacing">g|mkM@Nw@@@@%N@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="53.40" y="151.00" textLength="364.80" lengthAdjust="spacing">g|mjN@@wk@M@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="53.40" y="171.00" textLength="364.80" lengthAdjust="spacing">!@mlN@MjN@@@@@@%@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="43.80" y="191.00" textLength="384.00" lengthAdjust="spacing">|w%jk@@g%g@@@@@@Ng@@@@MkwN@@@@@@@@@@@@@@</tspan>
-<tspan x="34.20" y="211.00" textLength="393.60" lengthAdjust="spacing">kjwgMNNNN%%Ngk||```';l!`',!|ijkj!j@@@@@@@</tspan>
-<tspan x="24.60" y="231.00" textLength="403.20" lengthAdjust="spacing">@w%@@%mkmjmwmmM%@gki;,!jg%%MkjkmM%ki%@@@@@</tspan>
-<tspan x="24.60" y="251.00" textLength="403.20" lengthAdjust="spacing">@N%@@mjk!;,'',!mggj|!;;lgMm!,'',,;gmj@@@@@</tspan>
-<tspan x="34.20" y="271.00" textLength="384.00" lengthAdjust="spacing">%@@@i||mMwjNNwj%@m!,,!k@%jm%NjgNmil|@@@@</tspan>
-<tspan x="34.20" y="291.00" textLength="384.00" lengthAdjust="spacing">@@@@||ilklilljiii!,'';|i||lll|lmjli|@@@@</tspan>
-<tspan x="43.80" y="311.00" textLength="364.80" lengthAdjust="spacing">@@@i|i;''```'!ll!```'|jj!''''''!jli@@@</tspan>
-<tspan x="63.00" y="331.00" textLength="336.00" lengthAdjust="spacing">kwi!,`..`,||`'!`  .!'`||'`...,|lMmg</tspan>
-<tspan x="63.00" y="351.00" textLength="316.80" lengthAdjust="spacing">.ji!;'';jl|!iwmmjjwmw|||jl,'',!lm</tspan>
-<tspan x="63.00" y="371.00" textLength="326.40" lengthAdjust="spacing">'w|!!!!jji|ljjkgwwgklli|ili!!!!iM'</tspan>
-<tspan x="63.00" y="391.00" textLength="326.40" lengthAdjust="spacing">,!;!|!!|jgNNljjkkkkjjj%Mgi!!!!!!|,</tspan>
-<tspan x="72.60" y="411.00" textLength="307.20" lengthAdjust="spacing">m;;!!!;|jwMl;,`..`,,iMgj!;;!!;;k</tspan>
-<tspan x="82.20" y="431.00" textLength="288.00" lengthAdjust="spacing">|;!!!!!ili!|ijkkji!!ili!!!!!;|</tspan>
-<tspan x="91.80" y="451.00" textLength="268.80" lengthAdjust="spacing">k||||!illi!!|!!|!|illi!|!|im</tspan>
-<tspan x="101.40" y="471.00" textLength="249.60" lengthAdjust="spacing">lgmkj|!!|!!;;;;!!|!!|jkmNi</tspan>
-<tspan x="101.40" y="491.00" textLength="249.60" lengthAdjust="spacing">|k%%%Ngwjl||ii||ijmM%@%@w;</tspan>
-<tspan x="101.40" y="511.00" textLength="249.60" lengthAdjust="spacing">|!jMMNN%@@@@@@@@@@%%NNNm!;</tspan>
-<tspan x="101.40" y="531.00" textLength="249.60" lengthAdjust="spacing">|;!jmwwwwwgNMMNgwwwwggk!!i</tspan>
-<tspan x="111.00" y="551.00" textLength="230.40" lengthAdjust="spacing">!!!!||ijjmkkkkmkjlii!||!</tspan>
+<tspan x="168.60" y="61.00" textLength="163.20" lengthAdjust="spacing">|iljkjkkmw%@@Nm@@</tspan>
+<tspan x="120.60" y="81.00" textLength="230.40" lengthAdjust="spacing">MmjM@@N%M%@@gmw%@@@@@@@N</tspan>
+<tspan x="101.40" y="101.00" textLength="268.80" lengthAdjust="spacing">wgjNM@gkMM@@NN@@@@@@@@@@@@@@</tspan>
+<tspan x="82.20" y="121.00" textLength="316.80" lengthAdjust="spacing">mwjg%@@@N@@%%%@N@%@@@@@@@@@@@@@@m</tspan>
+<tspan x="63.00" y="141.00" textLength="345.60" lengthAdjust="spacing">g|mkM@Nw@@@@%N@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="53.40" y="161.00" textLength="364.80" lengthAdjust="spacing">g|mjN@@wk@M@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="53.40" y="181.00" textLength="364.80" lengthAdjust="spacing">!@mlN@MjN@@@@@@%@@@@@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="43.80" y="201.00" textLength="384.00" lengthAdjust="spacing">|w%jk@@g%g@@@@@@Ng@@@@MkwN@@@@@@@@@@@@@@</tspan>
+<tspan x="34.20" y="221.00" textLength="393.60" lengthAdjust="spacing">kjwgMNNNN%%Ngk||```';l!`',!|ijkj!j@@@@@@@</tspan>
+<tspan x="24.60" y="241.00" textLength="403.20" lengthAdjust="spacing">@w%@@%mkmjmwmmM%@gki;,!jg%%MkjkmM%ki%@@@@@</tspan>
+<tspan x="24.60" y="261.00" textLength="403.20" lengthAdjust="spacing">@N%@@mjk!;,'',!mggj|!;;lgMm!,'',,;gmj@@@@@</tspan>
+<tspan x="34.20" y="281.00" textLength="384.00" lengthAdjust="spacing">%@@@i||mMwjNNwj%@m!,,!k@%jm%NjgNmil|@@@@</tspan>
+<tspan x="34.20" y="301.00" textLength="384.00" lengthAdjust="spacing">@@@@||ilklilljiii!,'';|i||lll|lmjli|@@@@</tspan>
+<tspan x="43.80" y="321.00" textLength="364.80" lengthAdjust="spacing">@@@i|i;''```'!ll!```'|jj!''''''!jli@@@</tspan>
+<tspan x="63.00" y="341.00" textLength="336.00" lengthAdjust="spacing">kwi!,`..`,||`'!`  .!'`||'`...,|lMmg</tspan>
+<tspan x="63.00" y="361.00" textLength="316.80" lengthAdjust="spacing">.ji!;'';jl|!iwmmjjwmw|||jl,'',!lm</tspan>
+<tspan x="63.00" y="381.00" textLength="326.40" lengthAdjust="spacing">'w|!!!!jji|ljjkgwwgklli|ili!!!!iM'</tspan>
+<tspan x="63.00" y="401.00" textLength="326.40" lengthAdjust="spacing">,!;!|!!|jgNNljjkkkkjjj%Mgi!!!!!!|,</tspan>
+<tspan x="72.60" y="421.00" textLength="307.20" lengthAdjust="spacing">m;;!!!;|jwMl;,`..`,,iMgj!;;!!;;k</tspan>
+<tspan x="82.20" y="441.00" textLength="288.00" lengthAdjust="spacing">|;!!!!!ili!|ijkkji!!ili!!!!!;|</tspan>
+<tspan x="91.80" y="461.00" textLength="268.80" lengthAdjust="spacing">k||||!illi!!|!!|!|illi!|!|im</tspan>
+<tspan x="101.40" y="481.00" textLength="249.60" lengthAdjust="spacing">lgmkj|!!|!!;;;;!!|!!|jkmNi</tspan>
+<tspan x="101.40" y="501.00" textLength="249.60" lengthAdjust="spacing">|k%%%Ngwjl||ii||ijmM%@%@w;</tspan>
+<tspan x="101.40" y="521.00" textLength="249.60" lengthAdjust="spacing">|!jMMNN%@@@@@@@@@@%%NNNm!;</tspan>
+<tspan x="101.40" y="541.00" textLength="249.60" lengthAdjust="spacing">|;!jmwwwwwgNMMNgwwwwggk!!i</tspan>
+<tspan x="111.00" y="561.00" textLength="230.40" lengthAdjust="spacing">!!!!||ijjmkkkkmkjlii!||!</tspan>
 </text>
 <text x="490" y="30" fill="#24292f" xml:space="preserve">
 <tspan x="490" y="30">srikar@desemsetti</tspan> -——————————————————————————————-—-
@@ -58,7 +58,8 @@ text, tspan {white-space: pre;}
 <tspan x="490" y="470" class="cc">. </tspan><tspan class="key">Metaphysics</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Humean laws and causation</tspan>
 <tspan x="490" y="490" class="cc">. </tspan><tspan class="key">Epistemology</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">A defense of externalism</tspan>
 <tspan x="490" y="530">- Contact</tspan> -——————————————————————————————————————-—-
-<tspan x="490" y="550" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">srikar-desemsetti</tspan>
-<tspan x="490" y="570" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">SrikarD123</tspan>
+<tspan x="490" y="550" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">spdesems@ncsu.edu</tspan>
+<tspan x="490" y="570" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">srikar-desemsetti</tspan>
+<tspan x="490" y="590" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">SrikarD123</tspan>
 </text>
 </svg>
