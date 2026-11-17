@@ -1,7 +1,7 @@
 """Build the profile card: ASCII portrait + info panel, in light and dark."""
 from xml.sax.saxutils import escape
 
-W, H = 985, 610
+W, H = 985, 630
 ART_FS, INFO_FS = 16, 15
 CW, LH = ART_FS * 0.6, ART_FS * 1.25
 INFO_X, INFO_COLS, ROW = 490, 52, 20
@@ -9,7 +9,7 @@ INFO_X, INFO_COLS, ROW = 490, 52, 20
 INFO = [
     ("head", "srikar@desemsetti"),
     ("kv", "OS", "Engineer, Trumpeter, Philosopher"),
-    ("kv", "Host", "NC State University, Class of 2027"),
+    ("kv", "Host", "NC State, B.S. 2027, M.S. 2028"),
     ("kv", "Kernel", "B.S. Computer Science (AI)"),
     ("kv", "Shell", "B.S. Philosophy"),
     ("kv", "Minors", "Music, Cognitive Science, Mathematics"),
@@ -19,7 +19,7 @@ INFO = [
     ("kv", "Languages.Web", "JavaScript, HTML, CSS"),
     ("kv", "Languages.Tools", "Next.js, AWS, OpenCV, NumPy"),
     ("gap",),
-    ("kv", "Hobbies.Music", "Trumpet (wind ensemble, sextet)"),
+    ("kv", "Hobbies.Music", "Trumpet, Raleigh Civic Symphony"),
     ("kv", "Hobbies.Court", "Pickleball, Tennis, Table Tennis"),
     ("kv", "Hobbies.Other", "Hiking, Reading"),
     ("blank",),
@@ -33,6 +33,7 @@ INFO = [
     ("kv", "Epistemology", "A defense of externalism"),
     ("blank",),
     ("head", "- Contact"),
+    ("kv", "Portfolio", "desemsetti.com"),
     ("kv", "Email", "itssrikaromg@gmail.com"),
     ("kv", "LinkedIn", "srikar-desemsetti"),
     ("kv", "GitHub", "SrikarD123"),

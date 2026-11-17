@@ -1,43 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,monospace" width="985px" height="610px" font-size="15px" role="img" aria-label="Srikar Desemsetti: ASCII portrait and profile">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,monospace" width="985px" height="630px" font-size="15px" role="img" aria-label="Srikar Desemsetti: ASCII portrait and profile">
 <style>
 @font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; size-adjust: 109%; }
 .key {fill: #ffa657;} .value {fill: #a5d6ff;} .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="610px" fill="#161b22" rx="15"/>
+<rect width="985px" height="630px" fill="#161b22" rx="15"/>
 <text fill="#c9d1d9" font-size="16px" xml:space="preserve">
-<tspan x="168.60" y="61.00" textLength="163.20" lengthAdjust="spacing">mkkjljlli|,'';|``</tspan>
-<tspan x="120.60" y="81.00" textLength="230.40" lengthAdjust="spacing">!ij;'`,';'``!||,````'``;</tspan>
-<tspan x="101.40" y="101.00" textLength="268.80" lengthAdjust="spacing">|!l;!'!l!!'',,''````````````</tspan>
-<tspan x="82.20" y="121.00" textLength="316.80" lengthAdjust="spacing">i|j|,''`,'`','';',````````````''i</tspan>
-<tspan x="63.00" y="141.00" textLength="345.60" lengthAdjust="spacing">!wil;`;|''``,,'`````````````````````</tspan>
-<tspan x="53.40" y="161.00" textLength="364.80" lengthAdjust="spacing">!mij,`'|i';```''``````````````````````</tspan>
-<tspan x="53.40" y="181.00" textLength="364.80" lengthAdjust="spacing">w'ij;`;l,``````'``````````````````````</tspan>
-<tspan x="43.80" y="201.00" textLength="384.00" lengthAdjust="spacing">m|'ll''!'!```''`,!'```;l|,`''``'````````</tspan>
-<tspan x="34.20" y="221.00" textLength="393.60" lengthAdjust="spacing">lj|!;;;;,,',!lmwN%NNgkw%Ngwmkjljwl```````</tspan>
-<tspan x="24.60" y="241.00" textLength="403.20" lengthAdjust="spacing">`|,'''iliji|ii!,'!ikgMwl!',;ijli;,ik'`````</tspan>
-<tspan x="24.60" y="261.00" textLength="403.20" lengthAdjust="spacing">`,'``illwggMMMwi!!lmwggj!!iwMMMgMg|il`````</tspan>
-<tspan x="34.20" y="281.00" textLength="384.00" lengthAdjust="spacing">,```kmmi!|j;,|j,'iwMMwl',ji,,j!;imkm````</tspan>
-<tspan x="34.20" y="301.00" textLength="384.00" lengthAdjust="spacing">`'``mmkjljkjjjkkkwMNNgmkmmjkkmjiljkm````</tspan>
-<tspan x="43.80" y="321.00" textLength="364.80" lengthAdjust="spacing">`''kmkgNNNNNNwkkwNNNNmjjwMNNNNMwjkk```</tspan>
-<tspan x="63.00" y="341.00" textLength="336.00" lengthAdjust="spacing">l|mwM%%%NMmmNMw%@@%wMNmwM%%%%Mmj!i!</tspan>
-<tspan x="63.00" y="361.00" textLength="326.40" lengthAdjust="spacing">%jmwgNNgjjwwk|iijl|i|mwmjjMNNgwji@</tspan>
-<tspan x="63.00" y="381.00" textLength="326.40" lengthAdjust="spacing">N|mwwwwjjmmkjll|||!ljjkwmjkwwwwk;N</tspan>
-<tspan x="63.00" y="401.00" textLength="326.40" lengthAdjust="spacing">Mwgwwwwmj!;,jjjllllllj';!kwwwwwwmM</tspan>
-<tspan x="72.60" y="421.00" textLength="307.20" lengthAdjust="spacing">iggwwwgml|!kgMN@@NMMk;!lwggwwggi</tspan>
-<tspan x="82.20" y="441.00" textLength="288.00" lengthAdjust="spacing">mgwwwwwkjkwwmjlljmwwkjkwwwwwgm</tspan>
-<tspan x="91.80" y="461.00" textLength="268.80" lengthAdjust="spacing">lmmwmwmkkmwwmwwmwwmkkmwmwmki</tspan>
-<tspan x="101.40" y="481.00" textLength="249.60" lengthAdjust="spacing">k!iljwwwwwgggggwwwwwmjli,k</tspan>
-<tspan x="101.40" y="501.00" textLength="249.60" lengthAdjust="spacing">ml,,',!|lkmmkkmmkji;'''`|g</tspan>
-<tspan x="101.40" y="521.00" textLength="249.60" lengthAdjust="spacing">mwl!;,,,'``'``'```',,,,iwg</tspan>
-<tspan x="101.40" y="541.00" textLength="249.60" lengthAdjust="spacing">mgwli|||||!,;;,!||||!|iwgm</tspan>
-<tspan x="111.00" y="561.00" textLength="230.40" lengthAdjust="spacing">gwwwmmkjlillllillkmmwmmw</tspan>
+<tspan x="168.60" y="71.00" textLength="163.20" lengthAdjust="spacing">mkkjljlli|,'';|``</tspan>
+<tspan x="120.60" y="91.00" textLength="230.40" lengthAdjust="spacing">!ij;'`,';'``!||,````'``;</tspan>
+<tspan x="101.40" y="111.00" textLength="268.80" lengthAdjust="spacing">|!l;!'!l!!'',,''````````````</tspan>
+<tspan x="82.20" y="131.00" textLength="316.80" lengthAdjust="spacing">i|j|,''`,'`','';',````````````''i</tspan>
+<tspan x="63.00" y="151.00" textLength="345.60" lengthAdjust="spacing">!wil;`;|''``,,'`````````````````````</tspan>
+<tspan x="53.40" y="171.00" textLength="364.80" lengthAdjust="spacing">!mij,`'|i';```''``````````````````````</tspan>
+<tspan x="53.40" y="191.00" textLength="364.80" lengthAdjust="spacing">w'ij;`;l,``````'``````````````````````</tspan>
+<tspan x="43.80" y="211.00" textLength="384.00" lengthAdjust="spacing">m|'ll''!'!```''`,!'```;l|,`''``'````````</tspan>
+<tspan x="34.20" y="231.00" textLength="393.60" lengthAdjust="spacing">lj|!;;;;,,',!lmwN%NNgkw%Ngwmkjljwl```````</tspan>
+<tspan x="24.60" y="251.00" textLength="403.20" lengthAdjust="spacing">`|,'''iliji|ii!,'!ikgMwl!',;ijli;,ik'`````</tspan>
+<tspan x="24.60" y="271.00" textLength="403.20" lengthAdjust="spacing">`,'``illwggMMMwi!!lmwggj!!iwMMMgMg|il`````</tspan>
+<tspan x="34.20" y="291.00" textLength="384.00" lengthAdjust="spacing">,```kmmi!|j;,|j,'iwMMwl',ji,,j!;imkm````</tspan>
+<tspan x="34.20" y="311.00" textLength="384.00" lengthAdjust="spacing">`'``mmkjljkjjjkkkwMNNgmkmmjkkmjiljkm````</tspan>
+<tspan x="43.80" y="331.00" textLength="364.80" lengthAdjust="spacing">`''kmkgNNNNNNwkkwNNNNmjjwMNNNNMwjkk```</tspan>
+<tspan x="63.00" y="351.00" textLength="336.00" lengthAdjust="spacing">l|mwM%%%NMmmNMw%@@%wMNmwM%%%%Mmj!i!</tspan>
+<tspan x="63.00" y="371.00" textLength="326.40" lengthAdjust="spacing">%jmwgNNgjjwwk|iijl|i|mwmjjMNNgwji@</tspan>
+<tspan x="63.00" y="391.00" textLength="326.40" lengthAdjust="spacing">N|mwwwwjjmmkjll|||!ljjkwmjkwwwwk;N</tspan>
+<tspan x="63.00" y="411.00" textLength="326.40" lengthAdjust="spacing">Mwgwwwwmj!;,jjjllllllj';!kwwwwwwmM</tspan>
+<tspan x="72.60" y="431.00" textLength="307.20" lengthAdjust="spacing">iggwwwgml|!kgMN@@NMMk;!lwggwwggi</tspan>
+<tspan x="82.20" y="451.00" textLength="288.00" lengthAdjust="spacing">mgwwwwwkjkwwmjlljmwwkjkwwwwwgm</tspan>
+<tspan x="91.80" y="471.00" textLength="268.80" lengthAdjust="spacing">lmmwmwmkkmwwmwwmwwmkkmwmwmki</tspan>
+<tspan x="101.40" y="491.00" textLength="249.60" lengthAdjust="spacing">k!iljwwwwwgggggwwwwwmjli,k</tspan>
+<tspan x="101.40" y="511.00" textLength="249.60" lengthAdjust="spacing">ml,,',!|lkmmkkmmkji;'''`|g</tspan>
+<tspan x="101.40" y="531.00" textLength="249.60" lengthAdjust="spacing">mwl!;,,,'``'``'```',,,,iwg</tspan>
+<tspan x="101.40" y="551.00" textLength="249.60" lengthAdjust="spacing">mgwli|||||!,;;,!||||!|iwgm</tspan>
+<tspan x="111.00" y="571.00" textLength="230.40" lengthAdjust="spacing">gwwwmmkjlillllillkmmwmmw</tspan>
 </text>
 <text x="490" y="30" fill="#c9d1d9" xml:space="preserve">
 <tspan x="490" y="30">srikar@desemsetti</tspan> -——————————————————————————————-—-
 <tspan x="490" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Engineer, Trumpeter, Philosopher</tspan>
-<tspan x="490" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">NC State University, Class of 2027</tspan>
+<tspan x="490" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">NC State, B.S. 2027, M.S. 2028</tspan>
 <tspan x="490" y="90" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">B.S. Computer Science (AI)</tspan>
 <tspan x="490" y="110" class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">B.S. Philosophy</tspan>
 <tspan x="490" y="130" class="cc">. </tspan><tspan class="key">Minors</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">Music, Cognitive Science, Mathematics</tspan>
@@ -47,7 +47,7 @@ text, tspan {white-space: pre;}
 <tspan x="490" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Web</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">JavaScript, HTML, CSS</tspan>
 <tspan x="490" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Tools</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Next.js, AWS, OpenCV, NumPy</tspan>
 <tspan x="490" y="250" class="cc">. </tspan>
-<tspan x="490" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Music</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">Trumpet (wind ensemble, sextet)</tspan>
+<tspan x="490" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Music</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">Trumpet, Raleigh Civic Symphony</tspan>
 <tspan x="490" y="290" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Court</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Pickleball, Tennis, Table Tennis</tspan>
 <tspan x="490" y="310" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Other</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Hiking, Reading</tspan>
 <tspan x="490" y="350">- Projects</tspan> -—————————————————————————————————————-—-
@@ -58,8 +58,9 @@ text, tspan {white-space: pre;}
 <tspan x="490" y="470" class="cc">. </tspan><tspan class="key">Metaphysics</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Humean laws and causation</tspan>
 <tspan x="490" y="490" class="cc">. </tspan><tspan class="key">Epistemology</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">A defense of externalism</tspan>
 <tspan x="490" y="530">- Contact</tspan> -——————————————————————————————————————-—-
-<tspan x="490" y="550" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">itssrikaromg@gmail.com</tspan>
-<tspan x="490" y="570" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">srikar-desemsetti</tspan>
-<tspan x="490" y="590" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">SrikarD123</tspan>
+<tspan x="490" y="550" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">desemsetti.com</tspan>
+<tspan x="490" y="570" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">itssrikaromg@gmail.com</tspan>
+<tspan x="490" y="590" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">srikar-desemsetti</tspan>
+<tspan x="490" y="610" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">SrikarD123</tspan>
 </text>
 </svg>
