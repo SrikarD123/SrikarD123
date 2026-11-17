@@ -2,7 +2,7 @@
 from xml.sax.saxutils import escape
 
 W, H = 985, 590
-ART_FS, INFO_FS = 9.4, 15
+ART_FS, INFO_FS = 16, 15
 CW, LH = ART_FS * 0.6, ART_FS * 1.25
 INFO_X, INFO_COLS, ROW = 490, 52, 20
 
